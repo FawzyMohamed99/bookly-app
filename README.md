@@ -1,2 +1,16 @@
 # bookly_app
-The bookly app is a functional that allows users to view details about books and search for books using their names. This app is bulit using the lates technologies and techniques in Flutter development,including: API Integration. Mvvm Architecture. Bloc State Management. Clean Code. Solid Principles. Dependency Injection.
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
